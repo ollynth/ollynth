@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning on IoT and Android development.<br>Let's collaborate, cause i don't wanna solo this world!<br>cheers (^._.^)ﾉ
+I'm currently learning about IoT and Android development.<br>Let's collaborate, cause i don't wanna solo this world!<br>cheers (^._.^)ﾉ
 
 
 # 💻 Tech Stack:
