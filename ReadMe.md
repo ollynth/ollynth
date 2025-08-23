@@ -8,7 +8,7 @@ i've been learning code for 3 years+ and have a high interest in building a webs
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [carollynthiow@gmail.com](mailto:carollynthiow@gmail.com)
-* 🚀  I'm currently working on [Hooma](http://github/ollynth/hooma)
+* 🚀  I'm currently working on [Hooma](https://github.com/ollynth/hooma)
 * 🧠  I'm currently learning Machine Learning and Blockchain based on ETH and Hyperledger
 * 👥  I'm looking to collaborate on any blockchain or web and android app development
 * ⚡  I love doing IoT things, wish I can look into it better next life haha
