@@ -7,6 +7,7 @@ Fullstack web and android developer
 i've been learning code for 3 years+ and have a high interest in building a website or an android app. Mostly I'm using JavaScript, ReactJS, Kotlin, MySQL and Mongo DB in building applications.
 
 * 🌍  I'm based in Indonesia
+* 🌐  Visit my web [here](https://ollynth.github.io/web-portfolio)
 * ✉️  You can contact me at [carollynthiow@gmail.com](mailto:carollynthiow@gmail.com)
 * 🚀  I'm currently working on [Hooma](https://github.com/ollynth/hooma)
 * 🧠  I'm currently learning Machine Learning and Blockchain based on ETH and Hyperledger
